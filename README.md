@@ -56,6 +56,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/cd-jewel.svg" alt="cd jewel case" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300ff41&qColor=%2300ff41&aColor=%23c9d1d9&borderColor=%2300ff41&hideBorder=true" alt="programming jokes" />
 </p>
 
