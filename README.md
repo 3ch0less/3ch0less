@@ -18,33 +18,35 @@
 </p>
 
 
-<details>
-  <summary><h2>🧰 tools</h2></summary>
+<p align="center">
+  <i>reverse engineer & malware analyst — breaking things and putting them back together</i>
+</p>
 
-  <h3>👨‍💻 languages</h3>
+<h2>🧰 tools</h2>
 
-  <p>
-    <a href="https://github.com/search?q=user%3A3ch0less+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3A3ch0less+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"></a>
-  </p>
+<h3>👨‍💻 languages</h3>
 
-  <h3>🔍 reverse engineering</h3>
+<p>
+  <a href="https://github.com/search?q=user%3A3ch0less+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3A3ch0less+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"></a>
+</p>
 
-  <p>
-    <a href="https://rada.re"><img alt="Radare2" src="https://img.shields.io/badge/Radare2-000000.svg?logo=radare2&logoColor=white"></a>
-    <a href="https://ghidra-sre.org"><img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-063D2E.svg?logo=ghidra&logoColor=white"></a>
-    <a href="https://wireshark.org"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
-    <a href="https://nmap.org"><img alt="nmap" src="https://img.shields.io/badge/nmap-0E7A0D.svg?logo=nmap&logoColor=white"></a>
-  </p>
+<h3>🔍 reverse engineering</h3>
 
-  <h3>🧩 platforms</h3>
+<p>
+  <a href="https://rada.re"><img alt="Radare2" src="https://img.shields.io/badge/Radare2-000000.svg?logo=radare2&logoColor=white"></a>
+  <a href="https://ghidra-sre.org"><img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-063D2E.svg?logo=ghidra&logoColor=white"></a>
+  <a href="https://wireshark.org"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
+  <a href="https://nmap.org"><img alt="nmap" src="https://img.shields.io/badge/nmap-0E7A0D.svg?logo=nmap&logoColor=white"></a>
+</p>
 
-  <p>
-    <a href="https://docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-    <a href="https://linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
-    <a href="https://android.com"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
-  </p>
-</details>
+<h3>🧩 platforms</h3>
+
+<p>
+  <a href="https://docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+  <a href="https://linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+  <a href="https://android.com"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
+</p>
 
 <details>
   <summary><h2>📊 stats and activity</h2></summary>
