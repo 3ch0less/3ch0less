@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <i>i break things for a living. your code is not safe.</i>
+  <i>reverse engineer & malware analyst. i take things apart for a living — binaries, networks, anything that sits still long enough. contributor to pi-hole, open source enthusiast, and full-time nerd. when i'm not reversing, i'm probably breaking something else just to see how it works. fluent in python and bash. sarcasm is my second language. this profile is basically a resume for people who want to hire me to break their stuff.</i>
 </p>
 
 <h2>tools</h2>
