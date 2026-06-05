@@ -17,21 +17,6 @@
   <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=3ch0less&style=for-the-badge&color=00ff41&label=views"/>
 </p>
 
-<details open>
-  <summary><h2>📌 pinned</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/3ch0less/pi-hole"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=3ch0less&repo=pi-hole&theme=react&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&hide_border=true&show_icons=false" alt="pi-hole"></a>
-  </p>
-</details>
-
-<details open>
-  <summary><h2>📗 top projects i've contributed to</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/pi-hole/pi-hole"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pi-hole&repo=pi-hole&theme=react&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&hide_border=true&show_icons=false&show_description=true" alt="pi-hole"></a>
-  </p>
-</details>
 
 <details>
   <summary><h2>🧰 tools</h2></summary>
