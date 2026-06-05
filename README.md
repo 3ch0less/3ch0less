@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <i>reverse engineer & malware analyst. breaking things and putting them back together.</i>
+  <i>i break things for a living. your code is not safe.</i>
 </p>
 
 <h2>tools</h2>
