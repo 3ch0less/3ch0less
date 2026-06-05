@@ -21,17 +21,8 @@
   <i>17 and i break things for fun. software, abandoned buildings, you name it. ai is my copilot because typing is hard. urbex enthusiast: if i'm not here, check the nearest condemned structure. professional silly goose and part-time nerd. i'm the hacker in the movies, green text on black screens, hacking the mainframe. don't take anything here too seriously, especially this bio.</i>
 </p>
 
-<h2>status</h2>
-
 <p align="center">
-  <img alt="firewall" src="https://img.shields.io/badge/firewall-bypassed-00FF41?style=for-the-badge">
-  <img alt="mainframe" src="https://img.shields.io/badge/mainframe-connected-236ad3?style=for-the-badge">
-  <img alt="caffeine" src="https://img.shields.io/badge/caffeine-critical-FF4500?style=for-the-badge">
-  <img alt="access" src="https://img.shields.io/badge/access-admin-800080?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://scribesvg.vercel.app/api/render?lines=.%2Fexploit.sh+--target+3cho.org;%5B%2B%5D+BREACHING+FIREWALL...;%5B!%5D+ROOT+ACCESS+GRANTED&layout=terminal&theme=matrix&font=Fira+Code&size=16&textGlow=4&center=true&attribution=false" alt="terminal session" />
+  <img src="https://scribesvg.vercel.app/api/render?lines=.%2Fexploit.sh+--target+3cho.org;%5B%2B%5D+FIREWALL+BY*SSED;%5B%2B%5D+MAINFRAME+CONNECTED;%5B!%5D+CAFFEINE%3A+CRITICAL;%5B!%5D+ACCESS%3A+ADMIN+GRANTED&layout=terminal&theme=matrix&font=Fira+Code&size=16&textGlow=4&center=true&attribution=false" alt="terminal session" />
 </p>
 
 <h2>tools</h2>
