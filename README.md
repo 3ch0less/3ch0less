@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=480&lines=reverse+engineer;malware+analyst;open+source+contributor;breaking+things+for+a+living)](https://git.io/typing-svg)
 
-reversing binaries · hunting malware · contributing to [Pi-hole](https://github.com/pi-hole/pi-hole)
+reversing binaries · hunting malware · open source contributor
 
 </div>
 
