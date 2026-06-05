@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=3ch0less;reverse+engineer;malware+analyst;open+source+contributor;breaking+things+for+a+living" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=3ch0less;hobbyist+reverser;urbex+enthusiast;ai+powered+developer;breaking+things+for+fun" alt="typing header" />
 </p>
 
 <p align="center">
@@ -22,13 +22,6 @@
 </p>
 
 <h2>tools</h2>
-
-<h3>languages</h3>
-
-<p>
-  <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://gnu.org/software/bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
-</p>
 
 <h3>reverse engineering</h3>
 
