@@ -16,3 +16,5 @@
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=3ch0less&show_icons=true&theme=dark&hide_border=true)
+
+"If something breaks, you didn't look hard enough." - probably my boss to my Docker container
