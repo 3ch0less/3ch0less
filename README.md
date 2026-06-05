@@ -59,6 +59,10 @@
 <details>
   <summary><h2>stats and activity</h2></summary>
 
+  <h3>matrix</h3>
+
+  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=3ch0less&animation=matrix&theme=dark" alt="matrix contribution rain" />
+
   <h3>streak</h3>
 
   <p>
