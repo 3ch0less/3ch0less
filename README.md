@@ -55,3 +55,7 @@
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=C0FFEE;B00B1E5;DEADBEAF;0D1117;00FF41;0123456789;ABCDEF0123&animation=matrix&color=00ff41&background=0D1117&size=24&width=750&height=120&vCenter=true&center=true" alt="matrix rain" />
 </p>
 
+<p align="center">
+  <img src="assets/cd-jewel.svg" alt="cd jewel case" />
+</p>
+
