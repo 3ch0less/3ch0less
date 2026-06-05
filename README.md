@@ -30,6 +30,10 @@
   <img alt="access" src="https://img.shields.io/badge/access-admin-800080?style=for-the-badge">
 </p>
 
+<p align="center">
+  <img src="https://scribesvg.vercel.app/api/render?lines=.%2Fexploit.sh+--target+3cho.org;%5B%2B%5D+BREACHING+FIREWALL...;%5B!%5D+ROOT+ACCESS+GRANTED&layout=terminal&theme=matrix&font=Fira+Code&size=16&textGlow=4&center=true&attribution=false" alt="terminal session" />
+</p>
+
 <h2>tools</h2>
 
 <h3>reverse engineering</h3>
