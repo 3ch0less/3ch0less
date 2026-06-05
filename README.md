@@ -21,6 +21,15 @@
   <i>17 and i break things for fun. software, abandoned buildings, you name it. ai is my copilot because typing is hard. urbex enthusiast: if i'm not here, check the nearest condemned structure. professional silly goose and part-time nerd. i'm the hacker in the movies, green text on black screens, hacking the mainframe. don't take anything here too seriously, especially this bio.</i>
 </p>
 
+<h2>status</h2>
+
+<p align="center">
+  <img alt="firewall" src="https://img.shields.io/badge/firewall-bypassed-00FF41?style=for-the-badge">
+  <img alt="mainframe" src="https://img.shields.io/badge/mainframe-connected-236ad3?style=for-the-badge">
+  <img alt="caffeine" src="https://img.shields.io/badge/caffeine-critical-FF4500?style=for-the-badge">
+  <img alt="access" src="https://img.shields.io/badge/access-admin-800080?style=for-the-badge">
+</p>
+
 <h2>tools</h2>
 
 <h3>reverse engineering</h3>
@@ -78,3 +87,11 @@
   <!--END_SECTION:activity-->
 
 </details>
+
+<h2>contribution snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ch0less/3ch0less/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ch0less/3ch0less/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/3ch0less/3ch0less/output/github-contribution-grid-snake.svg">
+</picture>
