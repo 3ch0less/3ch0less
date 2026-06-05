@@ -30,7 +30,7 @@
 
 <p>
   <a href="https://rada.re"><img alt="Radare2" src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=radare2&logoColor=white"></a>
-  <a href="https://ghidra-sre.org"><img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-063D2E?style=for-the-badge"></a>
+  <a href="https://ghidra-sre.org"><img alt="Ghidra" src="https://custom-icon-badges.demolab.com/badge/Ghidra-063D2E?style=for-the-badge&logo=bug&logoColor=white"></a>
 </p>
 
 <h3>network analysis</h3>
@@ -38,8 +38,8 @@
 <p>
   <a href="https://wireshark.org"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
   <a href="https://nmap.org"><img alt="nmap" src="https://img.shields.io/badge/nmap-0E7A0D?style=for-the-badge&logo=nmap&logoColor=white"></a>
-  <a href="https://tcpdump.org"><img alt="tcpdump" src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge"></a>
-  <a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"></a>
+  <a href="https://tcpdump.org"><img alt="tcpdump" src="https://custom-icon-badges.demolab.com/badge/tcpdump-000000?style=for-the-badge&logo=terminal&logoColor=white"></a>
+  <a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://custom-icon-badges.demolab.com/badge/Burp_Suite-FF6633?style=for-the-badge&logo=shield&logoColor=white"></a>
 </p>
 
 <h3>platforms</h3>
