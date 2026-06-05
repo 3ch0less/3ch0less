@@ -17,6 +17,10 @@
   <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=3ch0less&style=for-the-badge&color=00ff41&label=views"/>
 </p>
 
+<p align="center">
+  <i>reverse engineer & malware analyst. breaking things and putting them back together.</i>
+</p>
+
 <h2>tools</h2>
 
 <h3>languages</h3>
