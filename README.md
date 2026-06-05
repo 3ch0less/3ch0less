@@ -51,7 +51,7 @@
   <a href="https://android.com"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=01010101;10101010;01100110;10011001;00110011;11001100;01011010;10100101&animation=matrix&color=00ff41&background=0D1117&size=24&width=750&height=120&vCenter=true&center=true" alt="matrix rain" />
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=01010101;10101010;01100110;10011001;00110011;11001100;01011010;10100101&animation=matrix&color=00ff41&background=0D1117&size=24&width=750&height=120&vCenter=true&center=true&font=monospace&multiline=true" alt="matrix rain" />
 
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300ff41&qColor=%2300ff41&aColor=%23c9d1d9&borderColor=%2300ff41&hideBorder=true" alt="programming jokes" />
 
