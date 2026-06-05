@@ -56,39 +56,9 @@
   <a href="https://android.com"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
-<details>
-  <summary><h2>stats and activity</h2></summary>
+<h2>matrix</h2>
 
-  <h3>matrix</h3>
-
-  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=3ch0less&animation=matrix&theme=dark" alt="matrix contribution rain" />
-
-  <h3>streak</h3>
-
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img alt="streak" src="https://streak-stats.demolab.com/?user=3ch0less&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=ffffff&sideLabels=8b949e&currStreakNum=00ff41&dates=8b949e"/>
-    </a>
-  </p>
-
-  <h3>GitHub profile stats</h3>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=3ch0less&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ch0less&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6" height="180px"/></a>
-
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <h3>activity graph</h3>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=3ch0less&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/></a>
-
-  <h3>recent GitHub activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
+<p align="center">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=ACCESSING+MAINFRAME;BYPASSING+FIREWALL;ROOT+ACCESS+GRANTED&animation=matrix&color=00ff41&background=0D1117&size=24&width=600&height=100&vCenter=true&center=true" alt="matrix rain" />
+</p>
 
