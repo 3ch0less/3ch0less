@@ -39,22 +39,7 @@ reversing binaries · hunting malware · contributing to [Pi-hole](https://githu
 
 </div>
 
-<br>
 
-<div align="center">
-
-current focus
-
-|  |  |
-|---|---|
-| **contributing** | [Pi-hole](https://github.com/pi-hole/pi-hole) — gravity.sh error handling ([PR #6649](https://github.com/pi-hole/pi-hole/pull/6649)) |
-| **building** | RE tooling, Android analysis workflows, malware lab |
-| **learning** | Rust, firmware reversing, kernel internals |
-| **playing** | HackTheBox, CTFs |
-
-</div>
-
-<br>
 
 <div align="center">
 
