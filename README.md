@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <i>reverse engineer & malware analyst. i take things apart for a living — binaries, networks, anything that sits still long enough. contributor to pi-hole, open source enthusiast, and full-time nerd. when i'm not reversing, i'm probably breaking something else just to see how it works. fluent in python and bash. sarcasm is my second language. this profile is basically a resume for people who want to hire me to break their stuff.</i>
+  <i>17 and i break things for fun — software, abandoned buildings, you name it. ai is my copilot because typing is hard. urbex enthusiast: if i'm not here, check the nearest condemned structure. contributor to pi-hole, professional silly goose, and part-time nerd. don't take anything here too seriously, especially this bio.</i>
 </p>
 
 <h2>tools</h2>
