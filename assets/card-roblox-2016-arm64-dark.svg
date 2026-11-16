@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 252" width="1200" height="252" role="img" aria-label="roblox-2016-arm64: The 2016 Roblox client ported to run natively on Apple Silicon. ARM64 build, GLSL shaders, and offline play working on modern macOS.">
-  <title>roblox-2016-arm64: The 2016 Roblox client ported to run natively on Apple Silicon. ARM64 build, GLSL shaders, and offline play working on modern macOS.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 334" width="1200" height="334" role="img" aria-label="roblox-2016-arm64: The 2016 Roblox client, ported to run natively on Apple Silicon. Hundreds of translation units rebuilt for ARM64, with GLSL shaders and offline play working.">
+  <title>roblox-2016-arm64: The 2016 Roblox client, ported to run natively on Apple Silicon. Hundreds of translation units rebuilt for ARM64, with GLSL shaders and offline play working.</title>
   <defs>
     <linearGradient id="board" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0d1016"/><stop offset="1" stop-color="#07090c"/>
@@ -10,6 +10,9 @@
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="12" cy="12" r="1.15" fill="#1b212b"/>
     </pattern>
+    <linearGradient id="goldt" gradientUnits="userSpaceOnUse" x1="0" y1="78" x2="0" y2="134">
+      <stop offset="0" stop-color="#f3c876"/><stop offset="1" stop-color="#c88a2a"/>
+    </linearGradient>
   </defs>
   <style>
     .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
@@ -21,27 +24,91 @@
     .trace{fill:none;stroke:#dba545;stroke-linecap:round;stroke-linejoin:round}
     .bg{fill:none;stroke:#dba545;stroke-opacity:0.30;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    .ttl{stroke:url(#goldt);stroke-width:4.34}
+    .pulse{fill:none;stroke:#4fe3c1;stroke-width:3.2;stroke-linecap:round;stroke-dasharray:.16 1;stroke-dashoffset:.16;animation:pulse 2.6s linear infinite}
+    @keyframes pulse{0%{stroke-dashoffset:.16}100%{stroke-dashoffset:-1}}
+    .rl{stroke:#dba545;stroke-width:3.4}
     .cur{animation:cur 1.1s steps(1,end) infinite}
     @keyframes cur{0%,50%{opacity:1}51%,100%{opacity:0}}
   </style>
-  <rect x="1" y="1" width="1198" height="250" rx="20" fill="url(#board)" stroke="#262d37" stroke-width="2"/>
-  <rect x="6" y="6" width="1188" height="240" rx="15" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="332" rx="20" fill="url(#board)" stroke="#262d37" stroke-width="2"/>
+  <rect x="6" y="6" width="1188" height="322" rx="15" fill="url(#dots)"/>
 
-  <text class="mono dim" x="1160" y="47" text-anchor="end" font-size="14" letter-spacing="2" font-weight="600">P3</text>
-  
-  <g fill="none" stroke="#dba545" stroke-width="5" stroke-linecap="round"><path d="M100,70 v-18"/><path d="M100,182 v18"/><path d="M84,86 h-18"/><path d="M196,86 h18"/><path d="M116,70 v-18"/><path d="M116,182 v18"/><path d="M84,102 h-18"/><path d="M196,102 h18"/><path d="M132,70 v-18"/><path d="M132,182 v18"/><path d="M84,118 h-18"/><path d="M196,118 h18"/><path d="M148,70 v-18"/><path d="M148,182 v18"/><path d="M84,134 h-18"/><path d="M196,134 h18"/><path d="M164,70 v-18"/><path d="M164,182 v18"/><path d="M84,150 h-18"/><path d="M196,150 h18"/><path d="M180,70 v-18"/><path d="M180,182 v18"/><path d="M84,166 h-18"/><path d="M196,166 h18"/></g>
-  <rect x="84" y="70" width="112" height="112" rx="12" fill="#141920" stroke="#2c3440" stroke-width="2"/>
-  <circle cx="100" cy="86" r="4.5" fill="#7d8796"/>
-  <text class="mono" x="140" y="132" text-anchor="middle" font-size="24" font-weight="700" fill="#eef1f5">arm64</text>
-  <text class="mono" x="140" y="156" text-anchor="middle" font-size="12" letter-spacing="2" fill="#7d8796">NATIVE</text>
-
-  <text class="mono cu" x="290" y="56" font-size="15" letter-spacing="2.4" font-weight="600">C++ · PORTING · APPLE SILICON</text>
-  <text class="mono silk" x="290" y="104" font-size="40" font-weight="700">roblox-2016-arm64</text>
-  <text class="sans dim" x="290" y="142" font-size="21">The 2016 Roblox client ported to run natively on Apple Silicon. ARM64</text><text class="sans dim" x="290" y="172" font-size="21">build, GLSL shaders, and offline play working on modern macOS.</text>
-  <g><rect x="290" y="196" width="54.8" height="30" rx="15" fill="none" stroke="#262d37" stroke-width="1.5"/><text class="mono dim" x="317.4" y="216" text-anchor="middle" font-size="15">C++</text><rect x="354.8" y="196" width="74" height="30" rx="15" fill="none" stroke="#262d37" stroke-width="1.5"/><text class="mono dim" x="391.8" y="216" text-anchor="middle" font-size="15">ARM64</text><rect x="438.8" y="196" width="74" height="30" rx="15" fill="none" stroke="#262d37" stroke-width="1.5"/><text class="mono dim" x="475.8" y="216" text-anchor="middle" font-size="15">macOS</text><rect x="522.8" y="196" width="64.4" height="30" rx="15" fill="none" stroke="#262d37" stroke-width="1.5"/><text class="mono dim" x="555" y="216" text-anchor="middle" font-size="15">GLSL</text></g>
-  <g transform="translate(1126,186)" fill="none" stroke="#dba545" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="20" cy="20" r="20" stroke-opacity=".5" stroke-width="1.5"/>
-    <path d="M13,27 L27,13 M16,13 H27 V24"/>
+  <g fill="none" stroke="#8a94a3" stroke-opacity=".5"><circle cx="30" cy="30" r="8"/><circle cx="30" cy="304" r="8"/></g>
+  <g fill="#dba545"><circle cx="30" cy="30" r="3.2"/><circle cx="30" cy="304" r="3.2"/></g>
+  <text class="mono dim" x="56" y="52" font-size="14" letter-spacing="2.6" font-weight="600"><tspan class="cu">P3</tspan> · C++ · PORTING · APPLE SILICON</text>
+  <g>
+    <path class="trace ttl" d="M56,92 L56,120"/>
+    <path class="trace ttl" d="M56,99 L63,92 L77,92"/>
+    <g class="tvia"><circle cx="77" cy="92" r="3.92" fill="url(#gold)"/><circle cx="77" cy="92" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M94.5,92 L108.5,92 L115.5,99 L115.5,113 L108.5,120 L94.5,120 L87.5,113 L87.5,99Z"/>
+    <path class="trace ttl" d="M126,78 L126,120 L147,120 L154,113 L154,99 L147,92 L133,92 L126,99"/>
+    <g class="tvia"><circle cx="126" cy="78" r="3.92" fill="url(#gold)"/><circle cx="126" cy="78" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M164.5,78 L164.5,113 L171.5,120 L178.5,120"/>
+    <g class="tvia"><circle cx="164.5" cy="78" r="3.92" fill="url(#gold)"/><circle cx="164.5" cy="78" r="1.47" fill="#07090c"/></g>
+    <g class="tvia"><circle cx="178.5" cy="120" r="3.92" fill="url(#gold)"/><circle cx="178.5" cy="120" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M196,92 L210,92 L217,99 L217,113 L210,120 L196,120 L189,113 L189,99Z"/>
+    <path class="trace ttl" d="M227.5,92 L255.5,120"/>
+    <path class="trace ttl" d="M255.5,92 L227.5,120"/>
+    <g class="tvia"><circle cx="227.5" cy="92" r="3.92" fill="url(#gold)"/><circle cx="227.5" cy="92" r="1.47" fill="#07090c"/></g>
+    <g class="tvia"><circle cx="255.5" cy="92" r="3.92" fill="url(#gold)"/><circle cx="255.5" cy="92" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M266,106 L287,106"/>
+    <g class="tvia"><circle cx="266" cy="106" r="3.92" fill="url(#gold)"/><circle cx="266" cy="106" r="1.47" fill="#07090c"/></g>
+    <g class="tvia"><circle cx="287" cy="106" r="3.92" fill="url(#gold)"/><circle cx="287" cy="106" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M297.5,85 L304.5,78 L318.5,78 L325.5,85 L325.5,92 L297.5,120 L325.5,120"/>
+    <g class="tvia"><circle cx="297.5" cy="85" r="3.92" fill="url(#gold)"/><circle cx="297.5" cy="85" r="1.47" fill="#07090c"/></g>
+    <g class="tvia"><circle cx="325.5" cy="120" r="3.92" fill="url(#gold)"/><circle cx="325.5" cy="120" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M343,78 L357,78 L364,85 L364,113 L357,120 L343,120 L336,113 L336,85Z"/>
+    <path class="trace ttl" d="M345.1,106.35 L354.9,91.65"/>
+    <path class="trace ttl" d="M374.5,85 L381.5,78 L381.5,120"/>
+    <path class="trace ttl" d="M374.5,120 L388.5,120"/>
+    <g class="tvia"><circle cx="374.5" cy="85" r="3.92" fill="url(#gold)"/><circle cx="374.5" cy="85" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M420,78 L406,78 L399,85 L399,113 L406,120 L420,120 L427,113 L427,106 L420,99 L399,99"/>
+    <g class="tvia"><circle cx="420" cy="78" r="3.92" fill="url(#gold)"/><circle cx="420" cy="78" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M437.5,106 L458.5,106"/>
+    <g class="tvia"><circle cx="437.5" cy="106" r="3.92" fill="url(#gold)"/><circle cx="437.5" cy="106" r="1.47" fill="#07090c"/></g>
+    <g class="tvia"><circle cx="458.5" cy="106" r="3.92" fill="url(#gold)"/><circle cx="458.5" cy="106" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M469,92 L490,92 L497,99 L497,120"/>
+    <path class="trace ttl" d="M497,106 L476,106 L469,113 L476,120 L497,120"/>
+    <g class="tvia"><circle cx="469" cy="92" r="3.92" fill="url(#gold)"/><circle cx="469" cy="92" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M507.5,92 L507.5,120"/>
+    <path class="trace ttl" d="M507.5,99 L514.5,92 L528.5,92"/>
+    <g class="tvia"><circle cx="528.5" cy="92" r="3.92" fill="url(#gold)"/><circle cx="528.5" cy="92" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M539,92 L539,120"/>
+    <path class="trace ttl" d="M539,99 L546,92 L553,92 L560,99 L560,120"/>
+    <path class="trace ttl" d="M560,99 L567,92 L574,92 L581,99 L581,120"/>
+    <g class="tvia"><circle cx="539" cy="92" r="3.92" fill="url(#gold)"/><circle cx="539" cy="92" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M612.5,78 L598.5,78 L591.5,85 L591.5,113 L598.5,120 L612.5,120 L619.5,113 L619.5,106 L612.5,99 L591.5,99"/>
+    <g class="tvia"><circle cx="612.5" cy="78" r="3.92" fill="url(#gold)"/><circle cx="612.5" cy="78" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M651,120 L651,78 L630,99 L630,106 L658,106"/>
+    <g class="tvia"><circle cx="658" cy="106" r="3.92" fill="url(#gold)"/><circle cx="658" cy="106" r="1.47" fill="#07090c"/></g>
+    <path class="trace ttl" d="M676.2,120 L704.2,92"/><path class="trace ttl" d="M686,92 H704.2 V110.2"/><g><circle cx="676.2" cy="120" r="3.92" fill="url(#gold)"/><circle cx="676.2" cy="120" r="1.47" fill="#07090c"/></g>
   </g>
+  <text class="sans" x="56" y="178" font-size="20" fill="#b9c2cf">The 2016 Roblox client, ported to run natively on Apple</text><text class="sans" x="56" y="207" font-size="20" fill="#b9c2cf">Silicon. Hundreds of translation units rebuilt for ARM64,</text><text class="sans" x="56" y="236" font-size="20" fill="#b9c2cf">with GLSL shaders and offline play working.</text>
+  <g><g><circle cx="63" cy="282" r="6.5" fill="url(#gold)"/><circle cx="63" cy="282" r="2.6" fill="#07090c"/></g><text class="mono dim" x="78" y="287" font-size="14" letter-spacing="1.6" font-weight="600">C++</text><g><circle cx="136.9" cy="282" r="6.5" fill="url(#gold)"/><circle cx="136.9" cy="282" r="2.6" fill="#07090c"/></g><text class="mono dim" x="151.9" y="287" font-size="14" letter-spacing="1.6" font-weight="600">ARM64</text><g><circle cx="231.4" cy="282" r="6.5" fill="url(#gold)"/><circle cx="231.4" cy="282" r="2.6" fill="#07090c"/></g><text class="mono dim" x="246.4" y="287" font-size="14" letter-spacing="1.6" font-weight="600">MACOS</text><g><circle cx="325.9" cy="282" r="6.5" fill="url(#gold)"/><circle cx="325.9" cy="282" r="2.6" fill="#07090c"/></g><text class="mono dim" x="340.9" y="287" font-size="14" letter-spacing="1.6" font-weight="600">GLSL</text></g>
+  <path class="trace" stroke-width="3.6" d="M676,282 H692 L712,262 H744"/>
+  <path class="pulse" pathLength="1" d="M676,282 H692 L712,262 H744"/>
+  <g><circle cx="676" cy="282" r="6.5" fill="url(#gold)"/><circle cx="676" cy="282" r="2.6" fill="#07090c"/></g>
+  <rect x="744" y="36" width="404" height="262" rx="12" fill="#05070a" stroke="#1f2630" stroke-width="1.5"/><text class="mono dim" x="764" y="63" font-size="13" letter-spacing="2" font-weight="600">ENCODING</text><text class="mono dim" x="1128" y="63" font-size="13" letter-spacing="2" font-weight="600" text-anchor="end">X86 → ARM64</text>
+  <text class="mono dim" x="764" y="95" font-size="12"><tspan class="silk" font-weight="700">x86</tspan> · 1 byte</text>
+  <rect x="764" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="780" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="796.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="812.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="828.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="844.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="860" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="876" y="108" width="13" height="13" rx="3" fill="#dba545"/><text class="mono silk" x="898" y="119" font-size="12.5" font-weight="700">C3</text>
+  <g><path class="trace rl" d="M764,149.6 L764,172.8"/>
+    <path class="trace rl" d="M764,155.4 L769.8,149.6 L781.4,149.6"/>
+    <g class="tvia"><circle cx="781.4" cy="149.6" r="3.02" fill="url(#gold)"/><circle cx="781.4" cy="149.6" r="1.16" fill="#07090c"/></g>
+    <path class="trace rl" d="M790.1,161.2 L813.3,161.2 L813.3,155.4 L807.5,149.6 L795.9,149.6 L790.1,155.4 L790.1,167 L795.9,172.8 L813.3,172.8"/>
+    <g class="tvia"><circle cx="813.3" cy="172.8" r="3.02" fill="url(#gold)"/><circle cx="813.3" cy="172.8" r="1.16" fill="#07090c"/></g>
+    <path class="trace rl" d="M827.8,138 L827.8,167 L833.6,172.8 L839.4,172.8"/>
+    <path class="trace rl" d="M822,149.6 L839.4,149.6"/>
+    <g class="tvia"><circle cx="827.8" cy="138" r="3.02" fill="url(#gold)"/><circle cx="827.8" cy="138" r="1.16" fill="#07090c"/></g>
+    <g class="tvia"><circle cx="839.4" cy="172.8" r="3.02" fill="url(#gold)"/><circle cx="839.4" cy="172.8" r="1.16" fill="#07090c"/></g></g>
+  <path d="M929,114.5 H962 m-7,-6 l7,6 l-7,6" fill="none" stroke="#8a94a3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="mono dim" x="976" y="95" font-size="12"><tspan class="silk" font-weight="700">arm64</tspan> · 4 bytes</text>
+  <rect x="976" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="992" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="1008.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1024" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="1040.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1056" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="1072" y="108" width="13" height="13" rx="3" fill="#dba545"/><rect x="1088.7" y="108.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><text class="mono silk" x="1110" y="119" font-size="12.5" font-weight="700">D6</text><rect x="976.7" y="125.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="992" y="125" width="13" height="13" rx="3" fill="#dba545"/><rect x="1008.7" y="125.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1024" y="125" width="13" height="13" rx="3" fill="#dba545"/><rect x="1040" y="125" width="13" height="13" rx="3" fill="#dba545"/><rect x="1056" y="125" width="13" height="13" rx="3" fill="#dba545"/><rect x="1072" y="125" width="13" height="13" rx="3" fill="#dba545"/><rect x="1088" y="125" width="13" height="13" rx="3" fill="#dba545"/><text class="mono silk" x="1110" y="136" font-size="12.5" font-weight="700">5F</text><rect x="976.7" y="142.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="992.7" y="142.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1008.7" y="142.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1024.7" y="142.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1040.7" y="142.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1056.7" y="142.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1072" y="142" width="13" height="13" rx="3" fill="#4fe3c1"/><rect x="1088" y="142" width="13" height="13" rx="3" fill="#4fe3c1"/><text class="mono silk" x="1110" y="153" font-size="12.5" font-weight="700">03</text><rect x="976" y="159" width="13" height="13" rx="3" fill="#4fe3c1"/><rect x="992" y="159" width="13" height="13" rx="3" fill="#4fe3c1"/><rect x="1008.7" y="159.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#4fe3c1" stroke-opacity="0.95" stroke-width="1.4"/><rect x="1024.7" y="159.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1040.7" y="159.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1056.7" y="159.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1072.7" y="159.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><rect x="1088.7" y="159.7" width="11.6" height="11.6" rx="2.4" fill="none" stroke="#8a94a3" stroke-opacity="0.45" stroke-width="1.4"/><text class="mono silk" x="1110" y="170" font-size="12.5" font-weight="700">C0</text>
+  <rect x="976" y="187" width="9" height="9" rx="2" fill="#4fe3c1"/>
+  <text class="mono sig" x="992" y="196" font-size="11.5" font-weight="700">Rn = x30 (lr)</text>
+  <text class="mono dim" x="764" y="254" font-size="12.5"><tspan fill="#dba545" font-weight="700">$</tspan> file RobloxPlayer</text>
+  <text class="mono sig" x="764" y="278" font-size="13.5" font-weight="700">Mach-O 64-bit executable arm64<tspan class="cur" dx="5">█</tspan></text>
+
+  <rect x="738" y="255" width="12" height="14" rx="3" fill="url(#gold)"/>
 
 </svg>
