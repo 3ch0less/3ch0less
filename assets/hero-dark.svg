@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="3ch0less: IoT pentesting, hardware hacking, AI, security. Based in the UAE.">
+  <title>3ch0less: IoT pentesting, hardware hacking, AI, security. Based in the UAE.</title>
+  <defs>
+    <linearGradient id="board" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1016"/><stop offset="1" stop-color="#07090c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3c876"/><stop offset="1" stop-color="#c88a2a"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1.15" fill="#1b212b"/>
+    </pattern>
+    <linearGradient id="goldn" gradientUnits="userSpaceOnUse" x1="0" y1="80" x2="0" y2="194">
+      <stop offset="0" stop-color="#f3c876"/><stop offset="1" stop-color="#c88a2a"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+    .silk{fill:#eef1f5}
+    .dim{fill:#8a94a3}
+    .cu{fill:#dba545}
+    .sig{fill:#4fe3c1}
+    .trace{fill:none;stroke:#dba545;stroke-linecap:round;stroke-linejoin:round}
+    .bg{fill:none;stroke:#dba545;stroke-opacity:0.30;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    .name{stroke:url(#goldn);stroke-width:8.74;stroke-dasharray:1;animation:draw 1.2s cubic-bezier(.65,0,.2,1) both}
+    .nvia{animation:pop .45s ease-out both}
+    @keyframes draw{0%{stroke-dashoffset:1;opacity:0}6%{opacity:1}100%{stroke-dashoffset:0;opacity:1}}
+    @keyframes pop{0%{opacity:0}100%{opacity:1}}
+    .wave{fill:none;stroke:#4fe3c1;stroke-width:2.6;stroke-linejoin:miter;stroke-dasharray:1;animation:wave 16s linear infinite}
+    @keyframes wave{0%{stroke-dashoffset:1;opacity:1}30.0%{stroke-dashoffset:0;opacity:1}90.0%{stroke-dashoffset:0;opacity:1}95.0%,100%{stroke-dashoffset:0;opacity:0}}
+    .pulse{fill:none;stroke:#4fe3c1;stroke-width:3.4;stroke-linecap:round;stroke-dasharray:.12 1;animation:pulse 2.4s linear infinite}
+    @keyframes pulse{0%{stroke-dashoffset:.12}100%{stroke-dashoffset:-1}}
+    .led{animation:led 1.6s steps(1,end) infinite}
+    @keyframes led{0%,55%{opacity:1}56%,100%{opacity:.25}}
+    .guide{stroke:#8a94a3;stroke-opacity:.35;stroke-width:1;stroke-dasharray:2 4}
+    @keyframes b0{0%,3.98%{opacity:0}5.18%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b0{animation:b0 16s linear infinite}@keyframes b1{0%,7.65%{opacity:0}8.85%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b1{animation:b1 16s linear infinite}@keyframes b2{0%,11.33%{opacity:0}12.53%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b2{animation:b2 16s linear infinite}@keyframes b3{0%,14.29%{opacity:0}15.49%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b3{animation:b3 16s linear infinite}@keyframes b4{0%,17.96%{opacity:0}19.16%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b4{animation:b4 16s linear infinite}@keyframes b5{0%,22.35%{opacity:0}23.55%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b5{animation:b5 16s linear infinite}@keyframes b6{0%,26.02%{opacity:0}27.22%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b6{animation:b6 16s linear infinite}@keyframes b7{0%,29.69%{opacity:0}30.89%,90.0%{opacity:1}95.0%,100%{opacity:0}}.b7{animation:b7 16s linear infinite}
+  </style>
+  <rect x="1" y="1" width="1198" height="438" rx="22" fill="url(#board)" stroke="#262d37" stroke-width="2"/>
+  <rect x="6" y="6" width="1188" height="428" rx="17" fill="url(#dots)"/>
+
+  <!-- board furniture -->
+  <g><circle cx="34" cy="34" r="11" fill="#0d1117" stroke="#dba545" stroke-width="3.5"/><circle cx="1166" cy="34" r="11" fill="#0d1117" stroke="#dba545" stroke-width="3.5"/><circle cx="34" cy="406" r="11" fill="#0d1117" stroke="#dba545" stroke-width="3.5"/><circle cx="1166" cy="406" r="11" fill="#0d1117" stroke="#dba545" stroke-width="3.5"/></g>
+  <text class="mono dim" x="64" y="47" font-size="15" letter-spacing="3" font-weight="600">REV 18 · BASED IN THE UAE</text>
+
+  <!-- background routing -->
+  <g class="bg">
+    <path d="M968,139 V178 L942,204 H904"/>
+    <path d="M1056,139 V172 L1088,204 H1199"/>
+    <path d="M1100,139 V158 L1120,178 H1199"/>
+  </g>
+  <g><circle cx="904" cy="204" r="7" fill="url(#gold)"/><circle cx="904" cy="204" r="2.8" fill="#07090c"/></g>
+
+  <!-- the handle, routed as traces -->
+  <g>
+    <path class="trace name" pathLength="1" d="M64,80 L121,80 L140,99 L140,118 L121,137 L83,137" style="animation-delay:0.15s"/>
+    <path class="trace name" pathLength="1" d="M121,137 L140,156 L140,175 L121,194 L64,194" style="animation-delay:0.22s"/>
+    <g class="nvia" style="animation-delay:0.89s"><circle cx="64" cy="80" r="8.17" fill="url(#gold)"/><circle cx="64" cy="80" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:0.89s"><circle cx="83" cy="137" r="8.17" fill="url(#gold)"/><circle cx="83" cy="137" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:0.89s"><circle cx="64" cy="194" r="8.17" fill="url(#gold)"/><circle cx="64" cy="194" r="3.23" fill="#07090c"/></g>
+    <path class="trace name" pathLength="1" d="M246.4,118 L189.4,118 L170.4,137 L170.4,175 L189.4,194 L246.4,194" style="animation-delay:0.29s"/>
+    <g class="nvia" style="animation-delay:0.96s"><circle cx="246.4" cy="118" r="8.17" fill="url(#gold)"/><circle cx="246.4" cy="118" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:0.96s"><circle cx="246.4" cy="194" r="8.17" fill="url(#gold)"/><circle cx="246.4" cy="194" r="3.23" fill="#07090c"/></g>
+    <path class="trace name" pathLength="1" d="M276.8,80 L276.8,194" style="animation-delay:0.36s"/>
+    <path class="trace name" pathLength="1" d="M276.8,137 L295.8,118 L333.8,118 L352.8,137 L352.8,194" style="animation-delay:0.43s"/>
+    <g class="nvia" style="animation-delay:1.1s"><circle cx="276.8" cy="80" r="8.17" fill="url(#gold)"/><circle cx="276.8" cy="80" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:1.1s"><circle cx="276.8" cy="194" r="8.17" fill="url(#gold)"/><circle cx="276.8" cy="194" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:1.1s"><circle cx="352.8" cy="194" r="8.17" fill="url(#gold)"/><circle cx="352.8" cy="194" r="3.23" fill="#07090c"/></g>
+    <path class="trace name" pathLength="1" d="M402.2,80 L440.2,80 L459.2,99 L459.2,175 L440.2,194 L402.2,194 L383.2,175 L383.2,99Z" style="animation-delay:0.5s"/>
+    <path class="trace name" pathLength="1" d="M407.9,156.95 L434.5,117.05" style="animation-delay:0.57s"/>
+    <path class="trace name" pathLength="1" d="M489.6,80 L489.6,175 L508.6,194 L527.6,194" style="animation-delay:0.64s"/>
+    <g class="nvia" style="animation-delay:1.31s"><circle cx="489.6" cy="80" r="8.17" fill="url(#gold)"/><circle cx="489.6" cy="80" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:1.31s"><circle cx="527.6" cy="194" r="8.17" fill="url(#gold)"/><circle cx="527.6" cy="194" r="3.23" fill="#07090c"/></g>
+    <path class="trace name" pathLength="1" d="M558,156 L634,156 L634,137 L615,118 L577,118 L558,137 L558,175 L577,194 L634,194" style="animation-delay:0.71s"/>
+    <g class="nvia" style="animation-delay:1.38s"><circle cx="634" cy="194" r="8.17" fill="url(#gold)"/><circle cx="634" cy="194" r="3.23" fill="#07090c"/></g>
+    <path class="trace name" pathLength="1" d="M740.4,118 L683.4,118 L664.4,137 L683.4,156 L721.4,156 L740.4,175 L721.4,194 L664.4,194" style="animation-delay:0.78s"/>
+    <g class="nvia" style="animation-delay:1.45s"><circle cx="740.4" cy="118" r="8.17" fill="url(#gold)"/><circle cx="740.4" cy="118" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:1.45s"><circle cx="664.4" cy="194" r="8.17" fill="url(#gold)"/><circle cx="664.4" cy="194" r="3.23" fill="#07090c"/></g>
+    <path class="trace name" pathLength="1" d="M846.8,118 L789.8,118 L770.8,137 L789.8,156 L827.8,156 L846.8,175 L827.8,194 L770.8,194" style="animation-delay:0.85s"/>
+    <g class="nvia" style="animation-delay:1.52s"><circle cx="846.8" cy="118" r="8.17" fill="url(#gold)"/><circle cx="846.8" cy="118" r="3.23" fill="#07090c"/></g>
+    <g class="nvia" style="animation-delay:1.52s"><circle cx="770.8" cy="194" r="8.17" fill="url(#gold)"/><circle cx="770.8" cy="194" r="3.23" fill="#07090c"/></g>
+  </g>
+
+  <text class="mono silk" x="64" y="243" font-size="23" font-weight="500"><tspan>IoT pentesting</tspan><tspan fill="#dba545" dx="10" dy="0"> · </tspan><tspan dx="10">hardware hacking</tspan><tspan fill="#dba545" dx="10" dy="0"> · </tspan><tspan dx="10">AI</tspan><tspan fill="#dba545" dx="10" dy="0"> · </tspan><tspan dx="10">security</tspan></text>
+
+  <!-- J1: the UART header -->
+  <path class="trace" stroke-width="4" d="M1012,139 V204 L1048,240 V268"/>
+  <path class="pulse" pathLength="1" d="M1012,139 V204 L1048,240 V268"/>
+  <g><rect x="946" y="106" width="176" height="44" rx="7" fill="none" stroke="#eef1f5" stroke-width="2"/><rect x="957" y="117" width="22" height="22" rx="3" fill="url(#gold)"/><circle cx="968" cy="128" r="4.6" fill="#07090c"/><text class="mono silk" x="968" y="94" text-anchor="middle" font-size="14" font-weight="600">GND</text><circle cx="1012" cy="128" r="11" fill="url(#gold)"/><circle cx="1012" cy="128" r="4.6" fill="#07090c"/><text class="mono silk" x="1012" y="94" text-anchor="middle" font-size="14" font-weight="600">TX</text><circle cx="1056" cy="128" r="11" fill="url(#gold)"/><circle cx="1056" cy="128" r="4.6" fill="#07090c"/><text class="mono silk" x="1056" y="94" text-anchor="middle" font-size="14" font-weight="600">RX</text><circle cx="1100" cy="128" r="11" fill="url(#gold)"/><circle cx="1100" cy="128" r="4.6" fill="#07090c"/><text class="mono silk" x="1100" y="94" text-anchor="middle" font-size="14" font-weight="600">3V3</text><text class="mono dim" x="930" y="133.5" text-anchor="end" font-size="16" font-weight="700">J1</text></g>
+
+  <!-- logic analyzer capture: the line really does spell the handle at 8N1 -->
+  <rect x="64" y="274" width="1072" height="130" rx="12" fill="#05070a" stroke="#1f2630" stroke-width="1.5"/>
+  <rect x="1034" y="266" width="28" height="12" rx="3" fill="url(#gold)"/>
+  <text class="mono dim" x="86" y="301" font-size="14" letter-spacing="2" font-weight="600">CH1 · UART TX · 115200 8N1</text>
+  <circle class="led" cx="936" cy="296" r="4.5" fill="#4fe3c1"/>
+  <text class="mono dim" x="1114" y="301" font-size="14" letter-spacing="2" font-weight="600" text-anchor="end">8 BYTES DECODED</text>
+  <g class="guide"><path d="M110.48,314 V358"/><path d="M232.86,314 V358"/><path d="M355.24,314 V358"/><path d="M477.62,314 V358"/><path d="M600,314 V358"/><path d="M722.38,314 V358"/><path d="M844.76,314 V358"/><path d="M967.14,314 V358"/><path d="M1089.52,314 V358"/></g>
+  <path class="wave" pathLength="1" d="M86,322 H98.24 H110.48 V350 H122.71 V322 H134.95 H147.19 V350 H159.43 H171.67 V322 H183.9 H196.14 V350 H208.38 H220.62 V322 H232.86 V350 H245.1 V322 H257.33 H269.57 V350 H281.81 H294.05 H306.29 V322 H318.52 H330.76 V350 H343 V322 H355.24 V350 H367.48 H379.71 H391.95 H404.19 V322 H416.43 V350 H428.67 V322 H440.9 H453.14 V350 H465.38 V322 H477.62 V350 H489.86 H502.1 H514.33 H526.57 H538.81 V322 H551.05 H563.29 V350 H575.52 H587.76 V322 H600 V350 H612.24 H624.48 H636.71 V322 H648.95 H661.19 V350 H673.43 V322 H685.67 H697.9 V350 H710.14 V322 H722.38 V350 H734.62 V322 H746.86 V350 H759.1 V322 H771.33 V350 H783.57 H795.81 V322 H808.05 H820.29 V350 H832.52 V322 H844.76 V350 H857 V322 H869.24 H881.48 V350 H893.71 H905.95 V322 H918.19 H930.43 H942.67 V350 H954.9 V322 H967.14 V350 H979.38 V322 H991.62 H1003.86 V350 H1016.1 H1028.33 V322 H1040.57 H1052.81 H1065.05 V350 H1077.29 V322 H1089.52 H1101.76 H1114"/>
+  <g><g class="b0"><rect x="113.48" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="171.67" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x33</tspan><tspan class="silk" font-weight="700" dx="10">3</tspan></text></g><g class="b1"><rect x="235.86" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="294.05" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x63</tspan><tspan class="silk" font-weight="700" dx="10">c</tspan></text></g><g class="b2"><rect x="358.24" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="416.43" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x68</tspan><tspan class="silk" font-weight="700" dx="10">h</tspan></text></g><g class="b3"><rect x="480.62" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="538.81" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x30</tspan><tspan class="silk" font-weight="700" dx="10">0</tspan></text></g><g class="b4"><rect x="603" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="661.19" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x6C</tspan><tspan class="silk" font-weight="700" dx="10">l</tspan></text></g><g class="b5"><rect x="725.38" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="783.57" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x65</tspan><tspan class="silk" font-weight="700" dx="10">e</tspan></text></g><g class="b6"><rect x="847.76" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="905.95" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x73</tspan><tspan class="silk" font-weight="700" dx="10">s</tspan></text></g><g class="b7"><rect x="970.14" y="364" width="116.38" height="28" rx="6" fill="#4fe3c1" fill-opacity="0.10" stroke="#4fe3c1" stroke-opacity="0.45"/><text class="mono" x="1028.33" y="383.5" text-anchor="middle" font-size="15"><tspan class="dim">0x73</tspan><tspan class="silk" font-weight="700" dx="10">s</tspan></text></g></g>
+
+</svg>

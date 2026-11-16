@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 84" width="1200" height="84" role="img" aria-label="Toolkit">
+  <title>Toolkit</title>
+  <defs>
+    <linearGradient id="board" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdfcf9"/><stop offset="1" stop-color="#f3f1ea"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c4912f"/><stop offset="1" stop-color="#99690f"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1.15" fill="#e3dfd3"/>
+    </pattern>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+    .silk{fill:#14181d}
+    .dim{fill:#5b6470}
+    .cu{fill:#a8771a}
+    .sig{fill:#0a8a72}
+    .trace{fill:none;stroke:#a8771a;stroke-linecap:round;stroke-linejoin:round}
+    .bg{fill:none;stroke:#a8771a;stroke-opacity:0.38;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <text class="mono" x="2" y="63" font-size="22" font-weight="700" fill="#a8771a">02</text>
+  <text class="mono" x="46" y="63" font-size="22" font-weight="700" letter-spacing="4" fill="#1f2328">TOOLKIT</text>
+  <path class="trace" stroke-width="3" d="M215.4,56 H1140 L1156,40 H1184"/>
+  <g><circle cx="215.4" cy="56" r="7" fill="url(#gold)"/><circle cx="215.4" cy="56" r="2.8" fill="#f3f1ea"/></g><g><circle cx="1188" cy="40" r="7" fill="url(#gold)"/><circle cx="1188" cy="40" r="2.8" fill="#f3f1ea"/></g>
+
+</svg>

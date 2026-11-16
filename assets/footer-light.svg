@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" role="img" aria-label="End of transmission">
+  <title>End of transmission</title>
+  <defs>
+    <linearGradient id="board" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdfcf9"/><stop offset="1" stop-color="#f3f1ea"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c4912f"/><stop offset="1" stop-color="#99690f"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1.15" fill="#e3dfd3"/>
+    </pattern>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+    .silk{fill:#14181d}
+    .dim{fill:#5b6470}
+    .cu{fill:#a8771a}
+    .sig{fill:#0a8a72}
+    .trace{fill:none;stroke:#a8771a;stroke-linecap:round;stroke-linejoin:round}
+    .bg{fill:none;stroke:#a8771a;stroke-opacity:0.38;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <path class="trace" stroke-width="3" d="M16,24 H430"/><path class="trace" stroke-width="3" d="M770,24 H1184"/>
+  <g><circle cx="12" cy="24" r="7" fill="url(#gold)"/><circle cx="12" cy="24" r="2.8" fill="#f3f1ea"/></g><g><circle cx="434" cy="24" r="7" fill="url(#gold)"/><circle cx="434" cy="24" r="2.8" fill="#f3f1ea"/></g><g><circle cx="766" cy="24" r="7" fill="url(#gold)"/><circle cx="766" cy="24" r="2.8" fill="#f3f1ea"/></g><g><circle cx="1188" cy="24" r="7" fill="url(#gold)"/><circle cx="1188" cy="24" r="2.8" fill="#f3f1ea"/></g>
+  <text class="mono" x="600" y="30" text-anchor="middle" font-size="16" font-weight="600" letter-spacing="4" fill="#656d76">END OF TRANSMISSION</text>
+
+</svg>
